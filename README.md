@@ -10,6 +10,9 @@
 
 ---
 
+## What does this do
+Every time I do a successful submission on [NeetCode.io](https://neetcode.io), the answer will be uploaded to this repository
+
 ## Repository structure
 
 Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
